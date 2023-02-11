@@ -20,4 +20,6 @@ Or run it directly;
 >>>
 ```
 
+Currently, downloads are saved in the same location as the script so ensure to run with appropriate permissions
+
 ENJOY!
