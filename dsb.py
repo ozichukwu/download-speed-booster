@@ -192,7 +192,7 @@ def main(url):
     
     
 
-if __name == "__main__":
+if __name__ == "__main__":
     url = input("Enter url: ")
     t1 = time.time()
     main(url)
