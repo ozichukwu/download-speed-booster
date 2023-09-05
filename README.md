@@ -1,5 +1,5 @@
 # download-speed-booster
-Using multiple threads to grab parts of a file from a server supporting the Accept-Range HTTP header
+Using multiple threads to grab parts of a file from a server supporting the Accept-Ranges/Range HTTP header
 
 This script is currently in its roughest form and has not been fully tested. Expect bugs in certain situations. Hopefully, I find time to improve on it.
 
